@@ -1,4 +1,4 @@
-tabsChanging("info-header", "info-header-tab", "info-tabcontent");
+tabsChanging("tabsWrapClass", "tabsCollClass", "contentCollClass");
 
 	function tabsChanging(tabsWrapClass, tabsCollClass, contentCollClass) {
 
